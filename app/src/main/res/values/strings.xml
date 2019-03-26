@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intro</string>
+    <string name="skip_title">رد کردن</string>
+    <string name="done_title">اتمام</string>
+</resources>
